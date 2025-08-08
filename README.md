@@ -8,7 +8,7 @@ It detects release moments, measures biomechanical metrics, and generates **anno
 
 ---
 
-## 🔍 Features
+##  Features
 - Pose landmark extraction via MediaPipe Pose
 - Elbow angle, stance width, wrist speed, and angular velocity computation
 - Automatic **release detection** using spike correlation between wrist speed and elbow velocity
@@ -27,7 +27,7 @@ It detects release moments, measures biomechanical metrics, and generates **anno
 
 ---
 
-## 📂 Folder Structure (expected)
+##  Folder Structure (expected)
 ```
 archery-posture-ai/
 ├── app_streamlit.py      # Streamlit demo app
@@ -43,7 +43,7 @@ archery-posture-ai/
 
 ---
 
-## 🚀 Quick setup & run (Windows / macOS / Linux)
+##  Quick setup & run (Windows / macOS / Linux)
 
 1. Create & activate virtual environment
 ```bash
@@ -84,11 +84,7 @@ Open the Streamlit URL, select a video, and use the “Annotated” tab to view 
 
 ---
 
-## 📌 Notes & best practices
-- Do **not** upload large video files to GitHub. Put large annotated/original videos into Google Drive and share a link.
-- For the Streamlit Cloud demo, include one small sample annotated video (under 50 MB) in the `demo/` folder before deploying to make the demo interactive.
-- If you want improved classifier accuracy: manually relabel `reports/classifier_training_windows.csv` and re-train.
-- The project includes patent-style claims in the generated report — share them with a patent attorney if you want to file IP protection.
+
 
 ## License
 See [LICENSE](LICENSE) for details.
