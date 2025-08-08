@@ -41,6 +41,7 @@ archery-posture-ai/
 ├── plots_3d/             # Charts for PDFs
 ├── reports/              # Generated PDF reports
 └── requirements.txt
+└── runtime.txt
 ```
 
 ---
