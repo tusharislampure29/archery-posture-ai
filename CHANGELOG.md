@@ -15,4 +15,3 @@
 
 ## v1.3 — 2025-08-09 - Streamlit demo & packaging
 - Add `app_streamlit.py` for quick reviewer demo.
-- Prepare repo structure and instructions for submission.
