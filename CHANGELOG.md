@@ -6,7 +6,7 @@
 ## v1.1 — 2025-08-09 - Release detection
 - Added cross-correlation-style release detection using wrist & elbow dynamics.
 - Save candidate frames and charts.
-- - Kinematic metrics & release detection
+- Kinematic metrics & release detection
 
 ## v1.2 —  2025-08-09 - Classifier & PDFs
 - Add RandomForest classifier with weak labels.
