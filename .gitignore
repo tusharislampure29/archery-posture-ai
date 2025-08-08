@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+venv*/
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & outputs (do not commit large video files)
+input_videos/
+outputs_videos/
+reports/
+plots_3d/
+output_frames/
+metrics_all/
+
+# Jupyter
+.ipynb_checkpoints/
