@@ -19,6 +19,8 @@ It detects release moments, measures biomechanical metrics, and generates **anno
 - Streamlit demo app for easy playback & metric visualization
 - Browser-compatible annotated videos (`H.264 / yuv420p`)
 
+- LINK [https://archery-posture-ai.streamlit.app]
+
 ## Example Annotated Frames
 
 ![Annotated Frame 1 from Video 1](images/Video-1_frame0.jpg)
