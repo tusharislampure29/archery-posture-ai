@@ -1,4 +1,4 @@
-# Archery — Precision & Posture Evaluation 🏹
+# Archery — Precision & Posture Evaluation 
 
 **Author:** Tushar R. Islampure  
 **Date:** August 2025
