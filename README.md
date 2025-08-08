@@ -32,8 +32,8 @@ It detects release moments, measures biomechanical metrics, and generates **anno
 archery-posture-ai/
 ├── app_streamlit.py      # Streamlit demo app
 ├── main_pro.py           # Processing & report generation
-├── input_videos/         # Put your input .mp4 files here
-├── outputs_videos/       # Generated annotated videos (ignored by git by default)
+├── input_videos/         # input .mp4 files here
+├── outputs_videos/       # Generated annotated videos 
 ├── output_frames/        # Key extracted frames
 ├── metrics_all/          # Per-video CSV metrics
 ├── plots_3d/             # Charts for PDFs
@@ -83,8 +83,6 @@ streamlit run app_streamlit.py
 Open the Streamlit URL, select a video, and use the “Annotated” tab to view the annotated (H.264) output. If ffmpeg is installed the processing script will convert OpenCV temp output into browser-friendly H.264 automatically.
 
 ---
-
-
 
 ## License
 See [LICENSE](LICENSE) for details.
